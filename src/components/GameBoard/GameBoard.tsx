@@ -170,7 +170,7 @@ const GameBoard = ({ navigation, route }) => {
   };
   const changePlayer = () => {
     if (player === "X") {
-      setPlayer("Y");
+      setPlayer("O");
     } else {
       setPlayer("X");
     }
