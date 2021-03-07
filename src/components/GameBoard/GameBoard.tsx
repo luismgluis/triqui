@@ -196,7 +196,7 @@ const GameBoard = ({ navigation, route }) => {
     <Layout level="1" style={styles.environment}>
       <View style={styles.container}>
         <Text style={{ transform: [{ rotate: "180deg" }] }} category="h5">
-          {player === "Y" && "¡Player 2 your turn!"}
+          {player === "O" && "¡Player 2 your turn!"}
         </Text>
         <Separator />
         <GameGrill player={player} changePlayer={changePlayer} data={data} />
