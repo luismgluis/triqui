@@ -28,8 +28,8 @@ this re-install all dependecies
 
 # Preview
 
-<img src="https://github.com/luismgluis/triqui/src/statics/ss1.png"></img>
-<img src="https://github.com/luismgluis/triqui/src/statics/ss2.png"></img>
+<img src="https://github.com/luismgluis/triqui/blob/main/src/statics/ss1.png"></img>
+<img src="https://github.com/luismgluis/triqui/blob/main/src/statics/ss2.png"></img>
 
 # To Run project
 
