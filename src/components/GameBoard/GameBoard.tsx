@@ -104,9 +104,6 @@ const GameBoard = ({ navigation, route }) => {
   const checkWinner = () => {
     function WinnerAlert(msj) {
       MyAlert(msj);
-      setTimeout(() => {
-        clean();
-      }, 1000);
     }
     for (let i = 0; i < Object.keys(data).length; i++) {
       console.log(TAG, i);
