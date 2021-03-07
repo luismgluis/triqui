@@ -4,14 +4,18 @@ A simple triqui / tic tac toe react native application.
 
 This app is created in react-native to be a little more intersting.
 
-I used "React-native Expo" for easier creation of the project.
+I used "React-native cli" for easier creation of the project.
 
 # Install requirements
 
 ```
-npm install --global expo-cli
+npm install --global react-native-cli
 ```
 
+<p>You may need to check this WEB if you haven't used react-native before</p>
+```
+https://reactnative.dev/docs/environment-setup
+```
 # May need execute
 
 ```
