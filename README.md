@@ -12,10 +12,12 @@ I used "React-native cli" for easier creation of the project.
 npm install --global react-native-cli
 ```
 
-<p>You may need to check this WEB if you haven't used react-native before</p>
-```
+<p>You may need to check this WEB if you haven't used react-native before
+
 https://reactnative.dev/docs/environment-setup
-```
+
+</p>
+
 # May need execute
 
 ```
@@ -33,12 +35,8 @@ this re-install all dependecies
 
 <p>you can open iOS, Android, or web</p>
 ```
-- yarn start
-- yarn android
-- yarn ios
-- yarn web
-
-```
-
-
+ yarn start
+ yarn android
+ yarn ios
+ yarn web
 ```
