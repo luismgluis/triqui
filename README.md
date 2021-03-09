@@ -33,10 +33,7 @@ this re-install all dependecies
 
 # To Run project
 
-<p>you can open iOS, Android, or web</p>
+<p>you can open in Android device or emulator</p>
 ```
- yarn start
- yarn android
- yarn ios
- yarn web
+npx react-native run-android 
 ```
